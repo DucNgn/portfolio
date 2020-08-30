@@ -2,4 +2,12 @@
 layout: default
 title: Home
 ---
-<h1>{{ "Hello World!" | downcase }}</h1>
+{% include header.html %}
+{% include navbar.html %}
+{% include hero.html %}
+<main id="main">
+    {% include about.html %}
+    {% include skills.html %}
+</main>
+
+{% include footer.html %}
