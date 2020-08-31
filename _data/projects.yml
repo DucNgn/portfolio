@@ -8,16 +8,16 @@
   location: Montreal, QC
   description: Created a web application that analyzes, recognizes, and gives information about dog breed based on an image
   url: https://github.com/DukeNgn/Dog-breed-Classifier
-- name: Sudoku Board 
-  time: May 2020 - June 2020
-  location: Montreal, QC
-  description: An online version of the game Sudoku
-  url: https://github.com/DukeNgn/Sudoku-Game
-- name: Aww Bot 
-  time: May 2020 
-  location: Montreal, QC
-  description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript
-  url: https://github.com/DukeNgn/Aww
+#- name: Sudoku Board 
+#  time: May 2020 - June 2020
+#  location: Montreal, QC
+#  description: An online version of the game Sudoku
+#  url: https://github.com/DukeNgn/Sudoku-Game
+#- name: Aww Bot 
+#  time: May 2020 
+#  location: Montreal, QC
+#  description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript
+#  url: https://github.com/DukeNgn/Aww
 - name: Dog Fact API 
   time: May 2020 
   location: Montreal, QC
