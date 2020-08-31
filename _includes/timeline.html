@@ -1,0 +1,58 @@
+<!-- ======= Resume Section ======= -->
+<section id="resume" class="resume">
+    <div class="container">
+
+    <div class="section-title">
+        <h2>My timeline</h2>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-6" data-aos="fade-up">
+            <h3 class="resume-title">Work Experience</h3>
+            <div class="resume-item pb-0">
+                <h4>Upcoming Software Developer Intern</h4>
+                <h5>September 2020 - December 2020</h5>
+                <p><em>Ericsson Canada, Montreal, QC</em></p>
+                <p>
+                    <li>Contribute to Theia project - an open-source IDE framework</li>
+                </p>
+            </div>
+
+            <h3 class="resume-title">Education</h3>
+            {% for degree in site.data.education %}
+            <div class="resume-item">
+                <h4>{{ degree.title }}</h4>
+                <h5>{{ degree.time }}</h5>
+                <p><em>{{degree.location}}</em></p>
+                <p>
+                    <ul>
+                    {% for activity in degree.activities %}
+                        <li>{{activity.name}}</li>   
+                    {% endfor %}
+                    </ul>
+                </p>
+            </div>
+            {% endfor %}
+        </div>  
+
+        <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">My projects</h3>
+
+            <!--Load project data-->
+            {% for project in site.data.projects %}
+            <div class="resume-item">
+                <h4>{{ project.name }}</h4>
+                <h5>{{ project.time }}</h5>
+                <p>
+                    <em>{{ project.location }}</em>
+                    <br><br>
+                    {{ project.description }}
+                    <br><br>
+                    <strong><a href="{{ project.url }}" target="blank">See project</a></strong>
+                </p>    
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    </div>
+</section><!-- End Resume Section -->

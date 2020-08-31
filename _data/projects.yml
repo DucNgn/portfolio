@@ -1,0 +1,38 @@
+- name: COVID 19 Detector
+  time: August 2020
+  location: HackThe6ix, Toronto, ON 
+  description: Created a web app that find the probability of contracting with the virus based on CT scan images
+  url: https://github.com/DukeNgn/COVID19-Detector
+- name: Dog Breed Classifier
+  time: June 2020 - July 2020
+  location: Montreal, QC
+  description: Created a web application that analyzes, recognizes, and gives information about dog breed based on an image
+  url: https://github.com/DukeNgn/Dog-breed-Classifier
+- name: Sudoku Board 
+  time: May 2020 - June 2020
+  location: Montreal, QC
+  description: An online version of the game Sudoku
+  url: https://github.com/DukeNgn/Sudoku-Game
+- name: Aww Bot 
+  time: May 2020 
+  location: Montreal, QC
+  description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript
+  url: https://github.com/DukeNgn/Aww
+- name: Dog Fact API 
+  time: May 2020 
+  location: Montreal, QC
+  description: Created a REST API service that returns dog facts per requested
+  url: https://github.com/DukeNgn/Dog-facts-API
+- name: New Haven Board Game
+  time: May 2020 
+  location: Advanced programming with C++, Concordia University, Montreal, QC
+  description: Worked in a team of 3 to implement and stimulate the board game of New Haven with C++
+  url: https://github.com/DukeNgn/New-Haven-Board-Game
+- name: Tell-us
+  time: January 2020 
+  location: ConU Hacks V, Montreal, QC
+  description: Worked in a team of 4 to build a web application aims to provide supports for people who suffer mental illness
+  url: https://github.com/DukeNgn/Tell-Us
+
+
+
