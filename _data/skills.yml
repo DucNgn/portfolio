@@ -1,0 +1,29 @@
+- section_name: Programming
+  badges:
+    - svg_link: assets/images/skillsIcons/html5.svg
+    - svg_link: assets/images/skillsIcons/css3.svg
+    - svg_link: assets/images/skillsIcons/javascript.svg
+    - svg_link: assets/images/skillsIcons/typescript.svg
+    - svg_link: assets/images/skillsIcons/python.svg
+    - svg_link: assets/images/skillsIcons/java.svg
+    - svg_link: assets/images/skillsIcons/cpp.svg
+    - svg_link: assets/images/skillsIcons/rust.svg
+- section_name: Technologies, frameworks
+  badges:
+    - svg_link: assets/images/skillsIcons/git.svg
+    - svg_link: assets/images/skillsIcons/github.svg
+    - svg_link: assets/images/skillsIcons/flask.svg
+    - svg_link: assets/images/skillsIcons/jupyter.svg
+    - svg_link: assets/images/skillsIcons/nodejs.svg
+    - svg_link: assets/images/skillsIcons/docker.svg
+    - svg_link: assets/images/skillsIcons/mysql.svg
+    - svg_link: assets/images/skillsIcons/bootstrap.svg
+- section_name: Others
+  badges:
+    - svg_link: assets/images/skillsIcons/vim.svg
+    - svg_link: assets/images/skillsIcons/emacs.svg
+    - svg_link: assets/images/skillsIcons/latex.svg
+    - svg_link: assets/images/skillsIcons/markdown.svg
+    - svg_link: assets/images/skillsIcons/azure.svg
+    - svg_link: assets/images/skillsIcons/heroku.svg
+    - svg_link: assets/images/skillsIcons/jekyll.svg
