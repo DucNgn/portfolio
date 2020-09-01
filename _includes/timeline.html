@@ -42,12 +42,24 @@
             </div>
             {% endfor %}
 
-            <h3 class="resume-title">Volunteer Work</h3>
+            <h3 class="resume-title">Volunteer</h3>
             {% for work in site.data.volunteer %}
             <div class="resume-item">
                 <h4>{{ work.title }}</h4>
                 <h5>{{ work.time }}</h5>
                 <p><em>{{ work.location }}</em></p>
+            </div>
+            {% endfor %}
+
+            <h3 class="resume-title">Certificate</h3>
+            {% for cert in site.data.certificates %}
+            <div class="resume-item">
+                <h4>{{ cert.title }}</h4>
+                <h5>Issued: {{ cert.time }}</h5>
+                <p><em>{{ cert.location }}</em></p>
+                {% if cert.link %}
+                <strong><a href="{{ cert.link }}" target="blank"><i class="bx bx-medal"></i> See certificate</a></strong>
+                {% endif %}
             </div>
             {% endfor %}
 
@@ -66,7 +78,11 @@
                     <br><br>
                     {{ project.description }}
                     <br><br>
-                    <strong><a href="{{ project.url }}" target="blank">See project</a></strong>
+                    {% if project.website %}
+                    <strong><a href="{{ project.website }}" target="blank"><i class="bx bx-link-external"></i> Try here</a></strong>
+                    <br>
+                    {% endif %}
+                    <strong><a href="{{ project.url }}" target="blank" style="color:rgb(104,42,134);"><i class="bx bxl-github"></i> See repo</a></strong>
                 </p>    
             </div>
             {% endfor %}
