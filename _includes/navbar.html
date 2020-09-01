@@ -9,10 +9,10 @@
 
       <div class="profile">
         <img src="assets/images/profile-pic.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Duc (Duke) Nguyen</a></h1>
+        <h1 class="text-light"><a href="/">Duc (Duke) Nguyen</a></h1>
         <div class="social-links mt-3 text-center">
           {% for socialLink in site.data.nav_social_links %}
-            <a href="{{ socialLink.url }}" ><i class="{{ socialLink.iconClass }}"></i></a>
+            <a href="{{ socialLink.url }}" target="blank"><i class="{{ socialLink.iconClass }}"></i></a>
           {% endfor %}
         </div>
       </div>
