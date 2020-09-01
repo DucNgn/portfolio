@@ -2,23 +2,23 @@
 <section id="skills" class="skills section-bg">
     <div class="container">
         <div class="section-title">
-            <h2>Languages and tools</h2>
-        <p>
-            I have experience with web development, backend and front end
-        </p>
+            <h2>Technical Skills</h2>
         </div>
 
         {% for section in site.data.skills %}
         <div class="col">
             <div class="row justify-content">
                 <div class="card d-block bg-transparent border-light">
-                    <h3>{{ section.section_name}}</h3>
+                    <div class="resume">
+                    <h3 class="resume-title">{{ section.section_name}}</h3>
                         {% for link in section.badges %}
                             <img class="skill-icon" src="{{ link.svg_link }}">
                         {% endfor %}
+                    </div>
                 </div>
             </div>
         </div>
+        <br><br>
         {% endfor %}
     </div>
 </section><!-- End Skills Section -->

@@ -8,7 +8,7 @@
     - svg_link: assets/images/skillsIcons/java.svg
     - svg_link: assets/images/skillsIcons/cpp.svg
     - svg_link: assets/images/skillsIcons/rust.svg
-- section_name: Technologies, frameworks
+- section_name: Technologies & Frameworks
   badges:
     - svg_link: assets/images/skillsIcons/git.svg
     - svg_link: assets/images/skillsIcons/github.svg
