@@ -1,0 +1,6 @@
+- type: Linkedin
+  url: https://www.linkedin.com/in/ductringn/
+  iconClass: bx bxl-linkedin
+- type: Github
+  url: https://github.com/DukeNgn
+  iconClass: bx bxl-github

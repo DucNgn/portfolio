@@ -1,0 +1,13 @@
+- name: About Me
+  href: about
+  iconClass: bx bx-user
+- name: Technical Skills
+  href: skills
+  iconClass: bx bx-code
+- name: My Timeline
+  href: timeline
+  iconClass: bx bx-book-content
+- name: Contact Me
+  href: contact
+  iconClass: bx bx-envelope
+

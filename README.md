@@ -5,4 +5,5 @@ The website was built using Jekyll
 
 ## Credits:
 + Bootstrap for styling and layout the page
++ Icons in nav bar: [boxicons](https://boxicons.com/)
 + Wikipedia and [iconscout](https://iconscout.com/) for the SVG icons
