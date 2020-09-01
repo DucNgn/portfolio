@@ -1,13 +1,15 @@
 - name: COVID 19 Detector
   time: August 2020
   location: HackThe6ix, Toronto, ON 
-  description: Created a web app that find the probability of contracting with the virus based on CT scan images
+  description: A web app that uses Machine Learning to determine the probability of a person contracting with COVID-19 based on Chest CT Scan images. Simply upload a Chest CT image from a local machine or input an image URL, the result is returned in just seconds. Thus, healthcare providers can use the project as a filtering round to quickly find high potential patients and prioritize those in need. 
   url: https://github.com/DukeNgn/COVID19-Detector
+  website: https://covid19-detector.azurewebsites.net/
 - name: Dog Breed Classifier
   time: June 2020 - July 2020
   location: Montreal, QC
-  description: Created a web application that analyzes, recognizes, and gives information about dog breed based on an image
+  description: A web app that analyzes the picture of your dog and shows the information you need about that breed. Just upload a picture of a dog, and everything will be done for you in just a few secs !!!
   url: https://github.com/DukeNgn/Dog-breed-Classifier
+  website: https://doggo-breed-classifier.herokuapp.com/index
 #- name: Sudoku Board 
 #  time: May 2020 - June 2020
 #  location: Montreal, QC
@@ -21,17 +23,17 @@
 - name: Dog Fact API 
   time: May 2020 
   location: Montreal, QC
-  description: Created a REST API service that returns dog facts per requested
+  description: A REST API service that returns dog facts per requested. There is still no other dog facts api while there are many APIs supporting cat facts. That's unfair, and I am a dog person personally; hence, this project.
   url: https://github.com/DukeNgn/Dog-facts-API
 - name: New Haven Board Game
   time: May 2020 
   location: Advanced programming with C++, Concordia University, Montreal, QC
-  description: Worked in a team of 3 to implement and stimulate the board game of New Haven with C++
+  description: An attempt to implement and stimulate the board game of New Haven with C++ (with GUI). In New Haven, set in colonial New England, players must develop the riches of the land and build a thriving settlement while competing with each other for resources.
   url: https://github.com/DukeNgn/New-Haven-Board-Game
 - name: Tell-us
   time: January 2020 
   location: ConU Hacks V, Montreal, QC
-  description: Worked in a team of 4 to build a web application aims to provide supports for people who suffer mental illness
+  description: According to Canadian Mental Health Association, 49% of people who went through anxiety and depression have never seen a doctor. This application will help the user find a diagnosis and will locate the nearest institution that will provide professional help. The project aims to provide supports for people with mental illness. 
   url: https://github.com/DukeNgn/Tell-Us
 
 
