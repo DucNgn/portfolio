@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Barlow", sans-serif;
   color: #272829;
 }
 
@@ -23,11 +23,12 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Barlow", sans-serif;
 }
 
 p {
   font-size: 16px;
+  font-family: 'Barlow', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -138,6 +139,7 @@ p {
 --------------------------------------------------------------*/
 /* Desktop Navigation */
 .nav-menu {
+  font-family: 'Barlow', sans-serif;
   padding-top: 30px;
 }
 
@@ -400,7 +402,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 50px;
@@ -467,7 +469,7 @@ section {
   background: #e4edf9;
   padding: 5px 15px;
   display: inline-block;
-  font-weight: 600;
+  font-weight: 400;
   margin-bottom: 10px;
 }
 
@@ -476,6 +478,8 @@ section {
 }
 
 .resume .resume-item ul li {
+  font-size: 16px;
+  font-family: 'Barlow', sans-serif;
   padding-bottom: 10px;
 }
 
