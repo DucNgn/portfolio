@@ -6,7 +6,7 @@
   iconClass: bx bx-code
 - name: My Timeline
   href: timeline
-  iconClass: bx bx-book-content
+  iconClass: bx bx-git-branch
 - name: Contact Me
   href: contact
   iconClass: bx bx-envelope

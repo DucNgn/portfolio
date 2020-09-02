@@ -7,12 +7,12 @@
 
         {% for section in site.data.skills %}
         <div class="col">
-            <div class="row justify-content">
-                <div class="card d-block bg-transparent border-light">
+            <div class="row justify-content-center">
+                <div class="card d-block bg-transparent border-0">
                     <div class="resume">
-                    <h3 class="resume-title">{{ section.section_name}}</h3>
+                    <!--<h3 class="resume-title">{{ section.section_name}}</h3>-->
                         {% for link in section.badges %}
-                            <img class="skill-icon" src="{{ link.svg_link }}">
+                            <img class="skill-icon ml-8" src="{{ link.svg_link }}">
                         {% endfor %}
                     </div>
                 </div>
