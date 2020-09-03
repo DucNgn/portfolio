@@ -1,4 +1,7 @@
 exclude: [CNAME, README.md, .gitignore]
+favicon_log: '/assets/images/favicon/'
+keywords:    "portfolio, jekyll, template, github, blog, single page, tech, html, css, javascript, personal website"
+description: "Duc Nguyen's tech portfolio"
 
 plugins:
     - jemoji   
