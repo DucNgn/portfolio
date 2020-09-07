@@ -18,6 +18,7 @@
     - svg_link: assets/images/skillsIcons/docker.svg
     - svg_link: assets/images/skillsIcons/mysql.svg
     - svg_link: assets/images/skillsIcons/bootstrap.svg
+    - svg_link: assets/images/skillsIcons/django.svg
 - section_name: Others
   badges:
     - svg_link: assets/images/skillsIcons/vim.svg
