@@ -1,10 +1,8 @@
 # My Portfolio Source Code
 
-![deploy-page](https://github.com/DukeNgn/DukeNgn.github.io/workflows/Deploy-page/badge.svg?branch=master)
+[![deploy-page](https://github.com/DukeNgn/DukeNgn.github.io/workflows/Deploy-page/badge.svg?branch=master)](https://github.com/DukeNgn/DukeNgn.github.io/actions?query=branch%3Amaster)
 
 [Go to my portfolio](https://www.ducnguyen.dev/)
-
-The website was built using Jekyll
 
 ## Credits:
 
