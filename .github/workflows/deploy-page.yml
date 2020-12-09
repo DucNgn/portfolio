@@ -1,0 +1,19 @@
+name: Deploy-page
+
+on:
+  push:
+    branches:
+      - master
+    workflow_dispatch:
+
+jobs:
+  deploy-pages:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check out
+        uses: actions/checkout@v2
+
+      - name: Deploy
+        uses: helaili/jekyll-action@2.0.1
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
