@@ -1,7 +1,7 @@
 - name: COVID 19 Detector
   time: August 2020
-  location: HackThe6ix, Toronto, ON 
-  description: A web app that uses Machine Learning to quickly determine the probability of a person contracting with COVID-19 based on Chest CT Scan images. Healthcare providers can use the project as a filtering round to quickly find high potential patients and prioritize those in need. 
+  location: HackThe6ix, Toronto, ON
+  description: A web app that uses Machine Learning to quickly determine the probability of a person contracting with COVID-19 based on Chest CT Scan images. Healthcare providers can use the project as a filtering round to quickly find high potential patients and prioritize those in need.
   url: https://github.com/DukeNgn/COVID19-Detector
   website: https://covid19-detector.azurewebsites.net/
 - name: Dog Breed Classifier
@@ -10,31 +10,28 @@
   description: A web app that analyzes the picture of your dog and shows the information you need about that breed. Just upload a picture of a dog, and everything will be done for you in just a few secs.
   url: https://github.com/DukeNgn/Dog-breed-Classifier
   website: https://doggo-breed-classifier.herokuapp.com/index
-#- name: Sudoku Board 
+#- name: Sudoku Board
 #  time: May 2020 - June 2020
 #  location: Montreal, QC
 #  description: An online version of the game Sudoku
 #  url: https://github.com/DukeNgn/Sudoku-Game
-#- name: Aww Bot 
-#  time: May 2020 
-#  location: Montreal, QC
-#  description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript
-#  url: https://github.com/DukeNgn/Aww
-- name: Dog Facts API 
-  time: May 2020 
+- name: Aww Bot
+  time: May 2020
+  location: Montreal, QC
+  description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript.
+  url: https://github.com/DukeNgn/Aww
+- name: Dog Facts API
+  time: May 2020
   location: Montreal, QC
   description: A REST API service that returns dog facts per requested. There is no other dog facts API while there are many APIs supporting cat facts. That's unfair, and I am a dog person; hence, this project.
   url: https://github.com/DukeNgn/Dog-facts-API
 - name: New Haven Board Game
-  time: May 2020 
+  time: May 2020
   location: Advanced programming with C++, Concordia University, Montreal, QC
   description: An attempt to implement and stimulate the board game of New Haven with C++ (with GUI). In New Haven, set in colonial New England, players must develop the riches of the land and build a thriving settlement while competing with each other for resources.
   url: https://github.com/DukeNgn/New-Haven-Board-Game
 - name: Tell-us
-  time: January 2020 
+  time: January 2020
   location: ConU Hacks V, Montreal, QC
-  description: According to Canadian Mental Health Association, 49% of people who went through anxiety and depression have never seen a doctor. This application helps the user find a diagnosis and locate the nearest institution that will provide professional help. 
+  description: According to Canadian Mental Health Association, 49% of people who went through anxiety and depression have never seen a doctor. This application helps the user find a diagnosis and locate the nearest institution that will provide professional help.
   url: https://github.com/DukeNgn/Tell-Us
-
-
-
