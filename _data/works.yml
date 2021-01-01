@@ -1,7 +1,14 @@
-- title: Software Developer Intern
+- title: Full-stack Software Developer Intern
   time: September 2020 - December 2020
-  location: Ericsson Canada, Montreal, QC
-  description: Contribute to Eclipse Theia - an open-source IDE framework 
-    <br><br><strong><a href="https://theia-ide.org/" target="blank"><i class="bx bx-link-external"></i> See More</a></strong>
+  location: Ericsson, Montreal, QC
+  description:
+    Work in Theia team, contribute to Eclipse Theia - an open-source framework to develop Cloud & Desktop IDE products.
+    <br><br><strong><a href="https://theia-ide.org/" target="blank"><i class="bx bx-link-external"></i> See Website</a></strong>
+    <br><strong><a href="https://github.com/eclipse-theia/theia" target="blank" style="color:rgb(104,42,134);"><i class="bx bxl-github"></i> See repo</a></strong>
   tasks:
-    # - name
+    - name: Authored and created <strong><a href="https://github.com/DukeNgn/selene-ide" target="blank">Selene-IDE</a></strong>, based on Theia for personal and illustration purposes.
+    - name: Refine IDE features for both Browser and Electron targets using TypeScript, Node.js to enhance user experience and overall performance.
+    - name: Upgrade and maintain <strong><a href="https://github.com/theia-ide/theia-apps" target="blank">Theia-apps</a></strong> - a set of 15 Theia Example Docker images.
+    - name: Redesign CI-CD pipelines with GitHub Actions for a variety of projects under <strong><a href="https://github.com/theia-ide" target="blank">Theia-ide</a></strong> and <strong><a href="https://github.com/eclipse-theia" target="blank">Eclipse-theia</a></strong>.
+    - name: Modify and improve Search module by adding new commands, settings, and features.
+    - name: Collaborate closely with the team in daily SCRUM meetings, participate in code review for both team members and community contributors.
