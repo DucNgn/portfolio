@@ -18,7 +18,7 @@
 - name: Aww Bot
   time: May 2020
   location: Montreal, QC
-  description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript.
+  description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript and Node.js.
   url: https://github.com/DukeNgn/Aww
 - name: Dog Facts API
   time: May 2020
