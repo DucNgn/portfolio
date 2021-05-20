@@ -1,14 +1,26 @@
-- title: Full-stack Software Developer Intern
-  time: September 2020 - December 2020
+- title: Software Developer Intern
+  time: May 2021 - August 2021
+  location: DRW Trading, Montreal, QC
+  description:
+    Working in Event-driven Trading team in a high frequency trading firm.
+    <br><br><strong><a href="https://drw.com" target="blank"><i class="bx bx-link-external"></i> See Website </a></strong>
+  tasks:
+    - name: Write Python script and tests to enhance features in property software to support traders.
+    - name: Use Selenium to automate tasks and get data efficiently.
+  
+- title: Software Developer Intern
+  time: September 2020 - April 2021
   location: Ericsson, Montreal, QC
   description:
-    Work in Theia team, contribute to Eclipse Theia - an open-source framework to develop Cloud & Desktop IDE products.
-    <br><br><strong><a href="https://theia-ide.org/" target="blank"><i class="bx bx-link-external"></i> See Website</a></strong>
+    Worked in Theia team, contributed to Eclipse Theia - an open-source framework to develop Cloud & Desktop IDE products.
+    Theia is used and developed by companies such as Ericsson, Google, Typefox, Red Hat, SAP, Eclipse and more.
+    <br><br><strong><a href="https://theia-ide.org/" target="blank"><i class="bx bx-link-external"></i> See Website </a></strong>
     <br><strong><a href="https://github.com/eclipse-theia/theia" target="blank" style="color:rgb(104,42,134);"><i class="bx bxl-github"></i> See repo</a></strong>
   tasks:
+    - name: Authored and developed <strong><a href="https://www.npmjs.com/package/@theia/external-terminal" target="blank">@theia/external-terminal</a></strong> - a new Theia package/extension that contributes the ability to spawn native terminals for Electron applications (1000+ weekly downloads from npm)
     - name: Authored and created <strong><a href="https://github.com/DukeNgn/selene-ide" target="blank">Selene-IDE</a></strong>, based on Theia for personal and illustration purposes.
-    - name: Refine IDE features for both Browser and Electron targets using TypeScript, Node.js to enhance user experience and overall performance.
-    - name: Upgrade and maintain <strong><a href="https://github.com/theia-ide/theia-apps" target="blank">Theia-apps</a></strong> - a set of 15 Theia Example Docker images.
-    - name: Redesign CI-CD pipelines with GitHub Actions for a variety of projects under <strong><a href="https://github.com/theia-ide" target="blank">Theia-ide</a></strong> and <strong><a href="https://github.com/eclipse-theia" target="blank">Eclipse-theia</a></strong>.
-    - name: Modify and improve Search module by adding new commands, settings, and features.
-    - name: Collaborate closely with the team in daily SCRUM meetings, participate in code review for both team members and community contributors.
+    - name: Refined IDE features for both Browser and Electron targets using TypeScript, Node.js to enhance user experience and overall performance.
+    - name: Upgraded and maintained <strong><a href="https://github.com/theia-ide/theia-apps" target="blank">Theia-apps</a></strong> - a set of 15 Theia Example Docker images.
+    - name: Redesigned CI-CD pipelines with GitHub Actions for a variety of projects under <strong><a href="https://github.com/theia-ide" target="blank">Theia-ide</a></strong> and <strong><a href="https://github.com/eclipse-theia" target="blank">Eclipse-theia</a></strong>.
+    - name: Modified and improved Search module by adding new commands, settings, and features.
+    - name: Collaborated closely with the team in daily SCRUM meetings, participate in code review for both team members and community contributors.

@@ -1,3 +1,9 @@
+- name: Clerver-ICE - 1st prize winner of Intact Challenge
+  time: May 2021
+  location: TOHacks, Toronto, ON
+  description: CleverICE (or Clever Insurance Claim Extract) allows insurance companies to upload claim letters from their customers and get insights quickly. <br /><br /> <strong> Best Project that Improves Customer Satisfaction - TOHack 2021  </strong> 
+  url: https://github.com/DukeNgn/CleverICE
+  website: https://devpost.com/software/intact-insurance-challenge
 - name: COVID 19 Detector
   time: August 2020
   location: HackThe6ix, Toronto, ON
