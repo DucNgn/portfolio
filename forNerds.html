@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css"/>
+</head>
+<body>
+    <script>
+        const items = ['about', 'contact', 'skills', 'work', 'education list']
+        const commands = ['cat', 'exit', 'ls', 'man']
+
+        function get_image(url) {
+            return new Promise(function(resolve, reject) {
+                const img = $('<img src="' + url + '"/>');
+                img.on('load', () => resolve(img));
+                img.on('error', reject);
+            });
+        }
+
+        function make_list(list_of_items) {
+            return list_of_items.map(i => i.replace(/\s/g, '-')).join(' ');
+        }
+
+
+        $('body').terminal({
+        exit: function() {
+            location.replace('/');
+        },
+        
+        cat: function() {
+            this.echo('No cats found, let\'s look at this kitty instead');
+            return get_image('https://placekitten.com/408/287');
+        },
+
+        ls: function(){
+            this.echo(make_list(items));
+        },
+
+        man: function() {
+            this.echo(make_list(commands));
+        }
+
+        }, {
+            greetings: 'Welcome, nerd :\) \nSee a list of available commands with \'man\'\n'
+        });
+    </script>
+</body>
+</html>
