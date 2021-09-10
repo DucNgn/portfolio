@@ -1,26 +1,27 @@
 - title: Software Developer Intern
   time: May 2021 - August 2021
-  location: DRW Trading, Montreal, QC
+  location: DRW Trading Group, Montreal, QC
   description:
-    Working in Event-driven Trading team in a high frequency trading firm.
+    Worked on Event-driven Trading team in a high frequency trading firm. Developed news pipeline to support traders and analysts.
     <br><br><strong><a href="https://drw.com" target="blank"><i class="bx bx-link-external"></i> See Website </a></strong>
-  tasks:
-    - name: Write Python script and tests to enhance features in property software to support traders.
-    - name: Use Selenium to automate tasks and get data efficiently.
+#  tasks:
+#     - name: Developed a news pipeline that leverage 
+#    - name: Developed a Computer Vision solution to compare web snapshots and extract meaningful differences, using OpenCV, Scikit-image, and Tesseract OCR.
+#    - name: Created an efficient mechanism to crawl, poll, and take screenshots of 800+ URLs daily, then store in a remote Ubuntu VM, using Python with Selenium and Docker.
+#    - name: Built a REST API service to report HTTP failures and abnormal responses from URLs, using Python with FastAPI.
+#    - name: Implemented a concurrent system and a Flask API service for queueing and processing jobs triggered by users.
   
 - title: Software Developer Intern
   time: September 2020 - April 2021
   location: Ericsson, Montreal, QC
   description:
-    Worked in Theia team, contributed to Eclipse Theia - an open-source framework to develop Cloud & Desktop IDE products.
+    Worked on Theia team, contributed to Eclipse Theia - an open-source framework to develop Cloud & Desktop IDE products.
     Theia is used and developed by companies such as Ericsson, Google, Typefox, Red Hat, SAP, Eclipse and more.
     <br><br><strong><a href="https://theia-ide.org/" target="blank"><i class="bx bx-link-external"></i> See Website </a></strong>
     <br><strong><a href="https://github.com/eclipse-theia/theia" target="blank" style="color:rgb(104,42,134);"><i class="bx bxl-github"></i> See repo</a></strong>
   tasks:
-    - name: Authored and developed <strong><a href="https://www.npmjs.com/package/@theia/external-terminal" target="blank">@theia/external-terminal</a></strong> - a new Theia package/extension that contributes the ability to spawn native terminals for Electron applications (1000+ weekly downloads from npm)
+    - name: Authored and developed <strong><a href="https://www.npmjs.com/package/@theia/external-terminal" target="blank">@theia/external-terminal</a></strong> -  a Theia package that contributes the ability to interact with native terminals, using TypeScript, Node.js, React.js, and Electron.
     - name: Authored and created <strong><a href="https://github.com/DukeNgn/selene-ide" target="blank">Selene-IDE</a></strong>, based on Theia for personal and illustration purposes.
-    - name: Refined IDE features for both Browser and Electron targets using TypeScript, Node.js to enhance user experience and overall performance.
-    - name: Upgraded and maintained <strong><a href="https://github.com/theia-ide/theia-apps" target="blank">Theia-apps</a></strong> - a set of 15 Theia Example Docker images.
-    - name: Redesigned CI-CD pipelines with GitHub Actions for a variety of projects under <strong><a href="https://github.com/theia-ide" target="blank">Theia-ide</a></strong> and <strong><a href="https://github.com/eclipse-theia" target="blank">Eclipse-theia</a></strong>.
-    - name: Modified and improved Search module by adding new commands, settings, and features.
-    - name: Collaborated closely with the team in daily SCRUM meetings, participate in code review for both team members and community contributors.
+#    - name: Upgraded and maintained <strong><a href="https://github.com/theia-ide/theia-apps" target="blank">Theia-apps</a></strong> - a set of 15 Theia Example Docker images.
+#    - name: Redesigned CI-CD pipelines with GitHub Actions for a variety of projects under <strong><a href="https://github.com/theia-ide" target="blank">Theia-ide</a></strong> and <strong><a href="https://github.com/eclipse-theia" target="blank">Eclipse-theia</a></strong>.
+#    - name: Collaborated closely with the team in daily SCRUM meetings, participate in code review for both team members and community contributors.
