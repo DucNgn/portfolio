@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+  jekyll:
+    container_name: portfolio_website
+    image: bretfisher/jekyll-serve
+    volumes:
+      - .:/site
+    ports:
+      - '4000:4000'
