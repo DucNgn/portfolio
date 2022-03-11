@@ -21,21 +21,21 @@
 #  location: Montreal, QC
 #  description: An online version of the game Sudoku
 #  url: https://github.com/DukeNgn/Sudoku-Game
-- name: Aww Bot
-  time: May 2020
-  location: Montreal, QC
-  description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript and Node.js.
+# - name: Aww Bot
+#   time: May 2020
+#   location: Montreal, QC
+#   description: Created a Discord bot that outputs images or facts of cats and dogs per request using JavaScript and Node.js.
   url: https://github.com/DukeNgn/Aww
 - name: Dog Facts API
   time: May 2020
   location: Montreal, QC
   description: A REST API service that returns dog facts per requested. There is no other dog facts API while there are many APIs supporting cat facts. That's unfair, and I am a dog person; hence, this project.
   url: https://github.com/DukeNgn/Dog-facts-API
-- name: New Haven Board Game
-  time: May 2020
-  location: Advanced programming with C++, Concordia University, Montreal, QC
-  description: An attempt to implement and stimulate the board game of New Haven with C++ (with GUI). In New Haven, set in colonial New England, players must develop the riches of the land and build a thriving settlement while competing with each other for resources.
-  url: https://github.com/DukeNgn/New-Haven-Board-Game
+# - name: New Haven Board Game
+#   time: May 2020
+#   location: Advanced programming with C++, Concordia University, Montreal, QC
+#   description: An attempt to implement and stimulate the board game of New Haven with C++ (with GUI). In New Haven, set in colonial New England, players must develop the riches of the land and build a thriving settlement while competing with each other for resources.
+#   url: https://github.com/DukeNgn/New-Haven-Board-Game
 - name: Tell-us
   time: January 2020
   location: ConU Hacks V, Montreal, QC
